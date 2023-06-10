@@ -1,0 +1,8 @@
+C:\Users\Owais.Sayed\source\repos\Prod_HW\Prod_HW\bin\Debug\Prod_HW.exe.config
+C:\Users\Owais.Sayed\source\repos\Prod_HW\Prod_HW\bin\Debug\Prod_HW.exe
+C:\Users\Owais.Sayed\source\repos\Prod_HW\Prod_HW\bin\Debug\Prod_HW.pdb
+C:\Users\Owais.Sayed\source\repos\Prod_HW\Prod_HW\obj\Debug\Prod_HW.csproj.AssemblyReference.cache
+C:\Users\Owais.Sayed\source\repos\Prod_HW\Prod_HW\obj\Debug\Prod_HW.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owais.Sayed\source\repos\Prod_HW\Prod_HW\obj\Debug\Prod_HW.csproj.CoreCompileInputs.cache
+C:\Users\Owais.Sayed\source\repos\Prod_HW\Prod_HW\obj\Debug\Prod_HW.exe
+C:\Users\Owais.Sayed\source\repos\Prod_HW\Prod_HW\obj\Debug\Prod_HW.pdb
